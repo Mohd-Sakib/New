@@ -31,6 +31,7 @@ nav{
 .menu{
     padding-top: 100px ;
 }
+
 .icon{
     position: absolute;
     bottom: 8%;
@@ -49,7 +50,7 @@ nav{
     display: flex;
 }
 
-.fa {
+.sa {
   
     background-color: rgb(22, 4, 86);
 }
@@ -63,6 +64,6 @@ nav{
 .wh{
     background-color:#21dd95 ;
 }
-.icon  :hover{
+.icon div :hover{
     transform: translateY(-20px);
 }
